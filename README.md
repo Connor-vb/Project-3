@@ -54,6 +54,6 @@ If you have questions or suggetions, please reach out: <br/>
 
 ## <strong>Deployed</strong>
 You can visit the deployed application here: 
-<https://mkothari-swap-buddy.herokuapp.com/>
+https://swap-buddy.herokuapp.com/
 
 <br/>
