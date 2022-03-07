@@ -1,49 +1,59 @@
+# <strong>Swap Buddy</strong>
+This page is licensed under: </br>
+![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
-# Swap Buddy
+Have extra stuff that you don’t use?  Want an item that someone else has? We built an app for you…
 
-## Description
-Have extra stuff that you don’t use?  Want something someone else has? We built an app for you…
-Then I am presented with a homepage with newly posted items, a  login and signup screen, once you are logged in you have the  ability to view items, message the postee and initiate a swap!
-When I check my account, I can see posts created by me. In addition, I am also able to create a post and delete my posts.
+Swap Buddy is an app that allows you to see items posted for trade. Upon opening the site, you are presented with a homepage with newly posted items and links to signup or login. Once you are logged in you have the ability to view your posts, delete your posts, and create new posts. 
 
-## Dependencies
-* "apollo-server-express": "^3.6.3"
-* "bcrypt": "^5.0.1",
-* "express": "^4.17.3",
-* "graphql": "^16.3.0",
-* "jsonwebtoken": "^8.5.1",
-* "mongoose": "^6.2.3"
-* "@apollo/client": "^3.5.9",
-* "@testing-library/jest-dom": "^5.16.2",
-* "@testing-library/react": "^12.1.3",
-* "@testing-library/user-event": "^13.5.0",
-* "bootstrap": "^5.1.3",
-* "graphql": "^16.3.0",
-* "jwt-decode": "^3.1.2",
-* "react": "^17.0.2",
-* "react-bootstrap": "^2.1.2",
-* "react-dom": "^17.0.2",
-* "react-router-bootstrap": "^0.25.0",
-* "react-router-dom": "^5.2.0",
-* "react-scripts": "5.0.0",
-* "serviceworker": "^0.1.7",
-* "web-vitals": "^2.1.4"
+For future development, user will be able to message the postee to initiate a swap.
 
-## Contributors
- * Connor V.
- * Hares N.
- * Kate H.
- * Monika K.
+<br>
 
-## GitHub
- * Connor-vb
- * greenlight510
- * Katehamilton1
- * mkothari93
+## Built With
+* HTML
+* CSS / BootStrap
+* JavaScript
+* React
+* Express
+* QraphQL
+* Apollo Client
+* Apollo Server
+* Bcrypt
+* Mongoose
 
-## Deployed Links
-https://swap-buddy.herokuapp.com/
+<br>
 
-## Init
-npm i/npm run develop
-        
+## Table of Contents
+- [Installation](#Installation)
+- [Contributing](#Contributing)
+- [Collaborators](#Collaborators)
+- [Deployed](#Deployed)
+- [Questions](#questions)
+
+<br>
+
+## Installation
+To install this application, clone this repository. Run '$npm install' command in the terminal to download all dependencies. Run '$npm run develop' command in the root directory to start the development server.
+
+<br>
+
+## Contributing
+Please contact one of the collaborators if you are interested in contributing.
+
+<br>
+
+## <strong>Collaborators</strong>
+If you have questions or suggetions, please reach out: <br/>
+[GitHub - Monika Kothari](https://github.com/mkothari93) -- <mkothari.1993@gmail.com><br/>
+[GitHub - Connor Van Brocklin](https://github.com/Connor-vb) <br/>
+[GitHub - Kate Hamilton](https://github.com/Katehamilton1) <br/>
+[GitHub - Hares Nayabkhil](https://github.com/greenlight510) -- <nayabkhil@yahoo.com><br/>
+
+<br/>
+
+## <strong>Deployed</strong>
+You can visit the deployed application here: 
+<https://mkothari-swap-buddy.herokuapp.com/>
+
+<br/>
